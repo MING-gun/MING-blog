@@ -1,0 +1,1 @@
+console.log('MING博客网站已加载');
